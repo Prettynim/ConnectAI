@@ -9,3 +9,4 @@ _Researcher 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 
 - [2026-05-08] 제공된 URL(https://retrogameandsetup.com/)의 콘텐츠 구조, 사용자 흐름, 핵심 메시지 및 잠재적인 시청자 트렌드를 분석하여 UX 리뷰를 위한 기초 데이터를 수집하고 요약하라. → 산출물 sessions/2026-05-08T18-45/researcher.md
 - [2026-05-09] 이전 세션에서 분석된 웹사이트의 핵심 메시지, 사용자 흐름 데이터 및 트렌드 리서치 결과를 검토하여 UX 개선을 위한 기초 데이터를 요약하고 정리하라. → 산출물 sessions/2026-05-09T05-07/researcher.md
 - [2026-05-12] 현재 페이스북/메타 플랫폼에서 가장 효과적인 콘텐츠 포맷, 최신 트렌드 및 경쟁사 마케팅 전략에 대한 데이터를 수집하고 요약해줘 → 산출물 sessions/2026-05-12T04-19/researcher.md
+- [2026-05-12] 제공된 웹사이트(https://retrogameandsetup.com/)의 핵심 상품(CoinOps, Retrobat, HyperSpin, Lunchbox 등)의 시장 경쟁력 및 잠재 고객 트렌드를 분석하고, 홍보에 활용할 핵심 메시지 세 가지를 도출해줘. → 산출물 sessions/2026-05-12T04-24/researcher.md
