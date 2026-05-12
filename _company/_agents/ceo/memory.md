@@ -13,3 +13,4 @@ _CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 
 - [2026-05-12] 페북 마케팅 스케줄로 작성해서 보냈으면 좋겠어. → 보고서 sessions/2026-05-12T04-19/_report.md
 - [2026-05-12] https://www.facebook.com/profile.php?id=100089870935608 여기에 올리면 되 → 보고서 sessions/2026-05-12T04-22/_report.md
 - [2026-05-12] https://retrogameandsetup.com/  신규 사이트 런칭에 대한 홍보물.  CoinOps 하나 Retrobat 하나 하이퍼스핀 하나 런치박스 하나씩 해도 되고 → 보고서 sessions/2026-05-12T04-24/_report.md
+- [2026-05-12] 유튜브 쇼츠를 만들 프롬프트가 필요해 → 보고서 sessions/2026-05-12T04-37/_report.md
